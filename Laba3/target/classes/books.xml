@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+    <book>
+        <title>Преступление и наказание</title>
+        <author>Фёдор Достоевский</author>
+        <genre>драма</genre>
+    </book>
+    <book>
+        <title>Унесенные ветром</title>
+        <author>Маргарет Митчелл</author>
+        <genre>роман</genre>
+    </book>
+    <book>
+        <title>Гарри Поттер и философский камень</title>
+        <author>Джоан Роулинг</author>
+        <genre>фэнтези</genre>
+    </book>
+    <book>
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <genre>сатира</genre>
+    </book>
+    <book>
+        <title>Анна Каренина</title>
+        <author>Лев Толстой</author>
+        <genre>роман</genre>
+    </book>
+    <book>
+        <title>Вино из одуванчиков</title>
+        <author>Рэй Брэдбери</author>
+        <genre>научная фантастика</genre>
+    </book>
+    <book>
+        <title>Алиса в стране чудес</title>
+        <author>Lewis Carroll</author>
+        <genre>детская литература</genre>
+    </book>
+    <book>
+        <title>Имя розы</title>
+        <author>Умберто Эко</author>
+        <genre>исторический детектив</genre>
+    </book>
+    <book>
+        <title>Метро 2033</title>
+        <author>Дмитрий Глуховский</author>
+        <genre>постапокалиптика</genre>
+    </book>
+    <book>
+        <title>Процесс</title>
+        <author>Франц Кафка</author>
+        <genre>философская проза</genre>
+    </book>
+</library>
