@@ -8,6 +8,6 @@
 <h1><%= "Лабораторная работа #3!" %>
 </h1>
 <br/>
-    <a href="/library.jsp">Задание 1</a>
+    <a href="/library.jsp">Задание 1-2</a>
 </body>
 </html>

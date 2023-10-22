@@ -50,4 +50,9 @@
         <author>Франц Кафка</author>
         <genre>философская проза</genre>
     </book>
+    <book>
+        <title>АФЫВ</title>
+        <author>фыв</author>
+        <genre>123</genre>
+    </book>
 </library>
